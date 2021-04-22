@@ -423,3 +423,4 @@ A list of the Core Team and contributors can be found in the [CONTRIBUTORS.md][8
 [8]: https://github.com/highlightjs/highlight.js/blob/main/CONTRIBUTORS.md
 [9]: https://github.com/highlightjs/highlight.js/blob/main/SUPPORTED_LANGUAGES.md
 [10]: https://github.com/highlightjs/
+# 1
